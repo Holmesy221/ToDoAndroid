@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDoAndroid</string>
+    <string name="log_in">Log in</string>
+
+
+    <string name="priority_string">Priority</string>
+    <string name="edit_task_description">Add task</string>
+    <string name="high_priority">High priority</string>
+    <string name="med_priority">Medium priority</string>
+    <string name="low_priority">Low priority</string>
+    <string name="add_button">Add</string>
+
+</resources>
